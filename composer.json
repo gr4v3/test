@@ -9,17 +9,15 @@
             "email": "fabiomenezes@admedia.pt"
         }
     ],
-    "type": "project",
     "require": {
-		"php": ">=5.4"
+	"php": ">=5.4"
     },
-	"require-dev": {
-		"phpunit/phpunit": "5.2.*"
+    "require-dev": {
+	"phpunit/phpunit": "5.2.*"
     },
-	"autoload": {
+    "autoload": {
         "psr-4": {
             "Tc24\\Template\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
