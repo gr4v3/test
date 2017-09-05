@@ -20,5 +20,6 @@
         "psr-4": {
             "Tc24\\Template\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
